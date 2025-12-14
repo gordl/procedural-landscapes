@@ -6,28 +6,20 @@ A project for generating procedural landscapes using algorithms and noise functi
 
 ### Prerequisites
 
-- Python 3.8+
-- Dependencies listed in `requirements.txt`
+- Dependencies listed in the project setup
 
 ### Installation
 
 ```bash
 git clone <repository-url>
 cd procedural-landscapes
-pip install -r requirements.txt
 ```
 
 ## Usage
 
-```bash
-python main.py
-```
+See the documentation for usage instructions.
 
 ## Features
-
-- Procedural terrain generation
-- Noise-based landscape creation
-- Customizable parameters
 
 ## Contributing
 
